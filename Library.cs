@@ -2,7 +2,7 @@ public class Library
 {
     private List<Book> books = new List<Book>();
 
-    public Library(List<Book> books){
+    public Library(){
         this.Books = books;
     }
     public void addBook(Book book){
