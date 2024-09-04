@@ -1,0 +1,15 @@
+/Users/hoangthanh/Documents/OOP_01/Ex01_Lib_Mana/bin/Debug/net7.0/Ex01_Lib_Mana
+/Users/hoangthanh/Documents/OOP_01/Ex01_Lib_Mana/bin/Debug/net7.0/Ex01_Lib_Mana.deps.json
+/Users/hoangthanh/Documents/OOP_01/Ex01_Lib_Mana/bin/Debug/net7.0/Ex01_Lib_Mana.runtimeconfig.json
+/Users/hoangthanh/Documents/OOP_01/Ex01_Lib_Mana/bin/Debug/net7.0/Ex01_Lib_Mana.dll
+/Users/hoangthanh/Documents/OOP_01/Ex01_Lib_Mana/bin/Debug/net7.0/Ex01_Lib_Mana.pdb
+/Users/hoangthanh/Documents/OOP_01/Ex01_Lib_Mana/obj/Debug/net7.0/Ex01_Lib_Mana.csproj.AssemblyReference.cache
+/Users/hoangthanh/Documents/OOP_01/Ex01_Lib_Mana/obj/Debug/net7.0/Ex01_Lib_Mana.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoangthanh/Documents/OOP_01/Ex01_Lib_Mana/obj/Debug/net7.0/Ex01_Lib_Mana.AssemblyInfoInputs.cache
+/Users/hoangthanh/Documents/OOP_01/Ex01_Lib_Mana/obj/Debug/net7.0/Ex01_Lib_Mana.AssemblyInfo.cs
+/Users/hoangthanh/Documents/OOP_01/Ex01_Lib_Mana/obj/Debug/net7.0/Ex01_Lib_Mana.csproj.CoreCompileInputs.cache
+/Users/hoangthanh/Documents/OOP_01/Ex01_Lib_Mana/obj/Debug/net7.0/Ex01_Lib_Mana.dll
+/Users/hoangthanh/Documents/OOP_01/Ex01_Lib_Mana/obj/Debug/net7.0/refint/Ex01_Lib_Mana.dll
+/Users/hoangthanh/Documents/OOP_01/Ex01_Lib_Mana/obj/Debug/net7.0/Ex01_Lib_Mana.pdb
+/Users/hoangthanh/Documents/OOP_01/Ex01_Lib_Mana/obj/Debug/net7.0/Ex01_Lib_Mana.genruntimeconfig.cache
+/Users/hoangthanh/Documents/OOP_01/Ex01_Lib_Mana/obj/Debug/net7.0/ref/Ex01_Lib_Mana.dll
